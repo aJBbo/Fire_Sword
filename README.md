@@ -1,7 +1,7 @@
 # Fire Sword With Fabric
 
 # Download Fire Sword Mod
-* Fire Sword [Soon](https://gg.net/gg/)
+* Fire Sword [Download](https://github.com/aJBbo/Fire_Sword/raw/master/sword-1.0.0.jar)
 
 # Require 
 * Fabric Loader 0.6.1.51 Or Later [Here](https://fabricmc.net/use/)
