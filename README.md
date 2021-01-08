@@ -7,4 +7,4 @@
 # Recipe
 ### ScreenShot
 
-<img src="https://crazy90.com/Crazy/Files/CMTrans.png" width="600"/> 
+<img src="https://raw.githubusercontent.com/aJBbo/Fire_Sword/master/Recpies.png" width="600"/> 
